@@ -1,5 +1,7 @@
 # Analyzing Social Media Activity related to a News Event
 
+**Update 3/12/2025:** This repo is indefinitely on hold, and has been for a while. I think Twitter (now X) changed their API when I was working on it, and I never bothered to work around it. 
+
 ## Objective
 
 The objective of this project is to use open-source intelligence (OSINT) tools to analyze social media activity related to a news event and identify patterns or trends in the data.
